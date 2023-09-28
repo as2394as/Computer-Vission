@@ -1,0 +1,6 @@
+Steps to run the code
+ 
+1. Make sure lesionimages.zip, masks.zip and groundtruth.txt 
+   are there in the folder.
+2. Run the CW.m script file.
+3. It will take approx 2-3 minutes and a bar chart will pop at the end.
